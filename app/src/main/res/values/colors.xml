@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="theme">#0A304E</color>
+    <color name="homefragment_background">#03060A</color>
+    <color name="poll_list_color">#34590A</color>
+
+</resources>
