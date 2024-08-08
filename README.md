@@ -23,10 +23,10 @@ The Voting Application is a mobile app designed to help organizations make decis
 ## ScreenShots
 
 ### Login Screen
-![Login Screen](screenshots/login_screen.png)
+![Login Screen](screenshots/Create groups.png)
 
 ### Poll Creation
-![Poll Creation](screenshots/poll_creation.png)
+![Poll Creation](Screenshots/poll_creation.png)
 
 ### Poll Results
 ![Poll Results](screenshots/poll_results.png)
