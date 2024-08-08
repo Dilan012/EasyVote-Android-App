@@ -1,4 +1,4 @@
-#EasyVote mobile Application
+# EasyVote mobile Application
 
 ## Overview
 
@@ -24,7 +24,7 @@ The Voting Application is a mobile app designed to help organizations make decis
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/voting-application.git
+    git clone https://github.com/Dilan012/EasyVote-Android-App.git
     ```
 
 2. **Open the Project**:
