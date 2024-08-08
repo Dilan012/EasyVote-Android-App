@@ -23,5 +23,72 @@ The Voting Application is a mobile app designed to help organizations make decis
 ## Installation
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/voting-application.git
+    ```bash
+    git clone https://github.com/yourusername/voting-application.git
+    ```
+
+2. **Open the Project**:
+    - Launch Android Studio.
+    - Select "Open an existing project".
+    - Navigate to the cloned repository folder and open it.
+
+3. **Setup Firebase**:
+    - Follow the Firebase setup instructions to integrate your project with Firebase.
+    - Add `google-services.json` to the `app` directory in your project.
+
+4. **Add Dependencies**:
+    - Ensure the required dependencies are included in your `build.gradle` file:
+      ```groovy
+      implementation 'com.google.firebase:firebase-auth:21.0.5'
+      implementation 'com.google.firebase:firebase-database:20.0.5'
+      implementation 'com.github.PhilJay:MPAndroidChart:v3.2.0'
+      ```
+
+5. **Run the Application**:
+    - Connect your Android device or use an emulator.
+    - Click "Run" in Android Studio to build and deploy the app.
+
+## Usage
+
+1. **Log In**:
+    - Open the app and log in using your credentials or sign up if you're a new user.
+
+2. **Create a Poll**:
+    - Go to the poll creation section.
+    - Enter the poll details and options, then submit.
+
+3. **Vote on Polls**:
+    - Browse through available polls, select one, and cast your vote.
+
+4. **Manage Groups**:
+    - Create and manage groups to organize and categorize polls effectively.
+
+5. **View Poll Results**:
+    - Poll admins can view results in the results section, where graphical charts and graphs provide a clear summary of poll outcomes.
+
+## Contributing
+
+If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix:
+    ```bash
+    git checkout -b feature-branch
+    ```
+3. Make your changes and commit them:
+    ```bash
+    git commit -am 'Add new feature'
+    ```
+4. Push your changes to your forked repository:
+    ```bash
+    git push origin feature-branch
+    ```
+5. Create a Pull Request to merge your changes into the main repository.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For any questions or inquiries, please contact [Your Name] at [your.email@example.com].
