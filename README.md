@@ -1,4 +1,4 @@
-# Voting Application
+#EasyVote mobile Application
 
 ## Overview
 
