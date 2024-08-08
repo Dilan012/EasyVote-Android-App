@@ -58,7 +58,7 @@ The Voting Application is a mobile app designed to help organizations make decis
     - Enter the poll details and options, then submit.
 
 3. **Vote on Polls**:
-    - Browse through available polls, select one, and cast your vote.
+    - enter poll id or link to the specific poll and vote for it. poll id or link should get via the poll creator. group poll are available for all the group members
 
 4. **Manage Groups**:
     - Create and manage groups to organize and categorize polls effectively.
@@ -66,29 +66,10 @@ The Voting Application is a mobile app designed to help organizations make decis
 5. **View Poll Results**:
     - Poll admins can view results in the results section, where graphical charts and graphs provide a clear summary of poll outcomes.
 
-## Contributing
-
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or fix:
-    ```bash
-    git checkout -b feature-branch
-    ```
-3. Make your changes and commit them:
-    ```bash
-    git commit -am 'Add new feature'
-    ```
-4. Push your changes to your forked repository:
-    ```bash
-    git push origin feature-branch
-    ```
-5. Create a Pull Request to merge your changes into the main repository.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [your.email@example.com].
+For any questions or inquiries, please contact Dilan at dilanmadusanka5555@gmail.com.
