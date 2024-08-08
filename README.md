@@ -19,17 +19,6 @@ The Voting Application is a mobile app designed to help organizations make decis
 - **Java**: Primary programming language used for developing the app.
 - **Firebase**: Provides backend services including database management and user authentication.
 - **MPAndroidChart**: A library used for creating charts and graphs to visualize poll results.
-- 
-## ScreenShots
-
-### Login Screen
-![Login Screen](screenshots/Create groups.png)
-
-### Poll Creation
-![Poll Creation](Screenshots/poll_creation.png)
-
-### Poll Results
-![Poll Results](screenshots/poll_results.png)
 
 ## Installation
 
