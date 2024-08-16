@@ -20,6 +20,16 @@ The Voting Application is a mobile app designed to help organizations make decis
 - **Firebase**: Provides backend services including database management and user authentication.
 - **MPAndroidChart**: A library used for creating charts and graphs to visualize poll results.
 
+ ## Screenshots
+<div style="display: flex;">
+    <img src="/Screenshots/Login Page.jpg" alt="image" width="200" height="auto">
+    <img src="/Screenshots/Navigation Drawer.jpg" alt="image" width="200" height="auto">
+    <img src="/Screenshots/graphical results1.jpg" alt="image" width="200" height="auto">
+    <img src="/Screenshots/graphicalResults2.jpg" alt="image" width="200" height="auto">
+    <img src="/Screenshots/VotingPage.jpg" alt="image" width="200" height="auto">
+    <img src="/Screenshots/HomePage.jpg" alt="image" width="200" height="auto">
+</div>
+
 ## Installation
 
 1. **Clone the Repository**:
