@@ -26,6 +26,7 @@ The Voting Application is a mobile app designed to help organizations make decis
     <img src="/Screenshots/Navigation Drawer.jpg" alt="image" width="200" height="auto">
     <img src="/Screenshots/graphical results1.jpg" alt="image" width="200" height="auto">
     <img src="/Screenshots/graphicalResults2.jpg" alt="image" width="200" height="auto">
+    <img src="/Screenshots/PollCreating.jpg" alt="image" width="200" height="auto">
     <img src="/Screenshots/VotingPage.jpg" alt="image" width="200" height="auto">
     <img src="/Screenshots/HomePage.jpg" alt="image" width="200" height="auto">
 </div>
